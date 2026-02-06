@@ -1,1 +1,5 @@
 models/
+venv/
+PER_CV5_Model/
+sample_data/
+sample_data_anonymized/
